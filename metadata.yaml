@@ -1,0 +1,33 @@
+_repo: A-Diplomatic-Adventure_30585
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30585-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Mitchell, S. Weir (Silas Weir)
+    aliases:
+    - Mitchell, Silas Weir
+    - Mitchell, Weir
+    birthdate: 1829
+    deathdate: 1914
+    gutenberg_agent_id: '357'
+    url: http://www.gutenberg.org/2009/agents/357
+    wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
+description: ''
+gutenberg_issued: '2009-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30585'
+  lccn: '06010020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'France -- Fiction'
+title: A Diplomatic Adventure
+url: http://www.gutenberg.org/ebooks/30585
